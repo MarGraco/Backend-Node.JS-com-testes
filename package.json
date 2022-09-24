@@ -1,0 +1,28 @@
+{
+  "name": "backend-node.js-com-testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarGraco/Backend-Node.JS-com-testes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarGraco/Backend-Node.JS-com-testes/issues"
+  },
+  "homepage": "https://github.com/MarGraco/Backend-Node.JS-com-testes#readme",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-react": "^7.31.8",
+    "vitest": "^0.23.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
